@@ -2,7 +2,48 @@ import React, { useState } from "react";
 import Navbar from "./Navbar";
 import Footer from "../components/Footer";
 
-const NGOSearch = ({ data }) => {
+const sampleData = {
+  STATE: {
+    "BIHAR": [
+      {
+        CITY: {
+          "PATNA": [
+            {
+              NGO: "Foodor",
+              ADDRESS: "Rajapur, Mainpura",
+              PINCODE: 800001
+            },
+            {
+              NGO: "HungerFree",
+              ADDRESS: "Boring Road",
+              PINCODE: 800013
+            }
+          ]
+        }
+      }
+    ],
+    "MAHARASHTRA": [
+      {
+        CITY: {
+          "MUMBAI": [
+            {
+              NGO: "Mumbai Food Bank",
+              ADDRESS: "Andheri West",
+              PINCODE: 400053
+            },
+            {
+              NGO: "Helping Hands",
+              ADDRESS: "Dadar East",
+              PINCODE: 400014
+            }
+          ]
+        }
+      }
+    ]
+  }
+};
+
+const NGOSearch = () => {
   const [searchInput, setSearchInput] = useState("");
   const [stateInput, setStateInput] = useState("");
   const [searchResult, setSearchResult] = useState([]);
@@ -12,8 +53,8 @@ const NGOSearch = ({ data }) => {
     const searchValue = searchInput.toUpperCase();
     let result = [];
 
-    for (const state in data.STATE) {
-      for (const cityData of data.STATE[state]) {
+    for (const state in sampleData.STATE) {
+      for (const cityData of sampleData.STATE[state]) {
         for (const city in cityData.CITY) {
           for (const ngo of cityData.CITY[city]) {
             if (
@@ -35,8 +76,8 @@ const NGOSearch = ({ data }) => {
     const searchValue = stateInput.toUpperCase();
     let result = [];
 
-    if (data.STATE[searchValue]) {
-      for (const cityData of data.STATE[searchValue]) {
+    if (sampleData.STATE[searchValue]) {
+      for (const cityData of sampleData.STATE[searchValue]) {
         for (const city in cityData.CITY) {
           for (const ngo of cityData.CITY[city]) {
             result.push({ state: searchValue, city, ngo });
@@ -67,10 +108,10 @@ const NGOSearch = ({ data }) => {
       />
       <button
         onClick={searchByCityOrPin}
-        className="ml-[86vh] mt-[-31px] absolute border-collapse"
+        className="ml-[86vh] w-10 mt-[-48px] absolute border-collapse"
       >
         <img
-          className="mt-[-16px] w-[33px] ml-[10px]"
+          className="mr-[15px] w-[23px]"
           src="search.png"
           alt="error"
         />
@@ -93,7 +134,7 @@ const NGOSearch = ({ data }) => {
         className="ml-[134vh] mt-[-25px] absolute border-collapse"
       >
         <img
-          className="mt-[-22px] w-[33px] ml-[32rem]"
+          className="mt-[-22px] w-[23px] ml-[29rem]"
           src="search.png"
           alt="error"
         />
@@ -124,15 +165,8 @@ const NGOSearch = ({ data }) => {
                       {item.ngo.NGO} - {item.ngo.ADDRESS}, {item.city},{" "}
                       {item.state}
                     </p>
-                    {/* {item.ngo.NGO} - {item.ngo.ADDRESS}, {item.city}, {item.state} */}
                   </li>
                 </ul>
-                {/* <p className="w-[1095px] text-[#2A3342] font-Poppins text-[42px] not-italic font-[700] leading-[92px]">
-                Foodor : A Food bank for all needy
-              </p>
-              <p className="w-[741px] font-Poppins font-[600] not-italic text-[20px]">
-                Food Bank in Rajapur, Mainpura, Patna, Bihar, IN
-              </p> */}
               </div>
             ))
           ))}

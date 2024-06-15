@@ -404,7 +404,7 @@ const LandingPage = () => {
       </h1>
       <div>
         <animated.img
-          className="absolute w-[120px] h-[120px] ml-[35%] mt-[17%] flex-shrink-0 filter drop-shadow-lg"
+          className="absolute w-[120px] h-[120px] ml-[25%] mt-[17%] flex-shrink-0 filter drop-shadow-lg"
           src="logo.png"
           alt=""
         />

@@ -1,0 +1,29 @@
+@tailwind components;
+
+@tailwind utilities;
+
+@layer components {
+  .all-\[unset\] {
+    all: unset;
+  }
+}
+
+:root {
+  --gray-500: rgba(85, 105, 135, 1);
+  --gray-900: rgba(42, 51, 66, 1);
+  --primary-050: rgba(240, 253, 244, 1);
+  --primary-500: rgba(34, 197, 94, 1);
+  --text-md-medium-font-family: "Poppins-Medium", Helvetica;
+  --text-md-medium-font-size: 16px;
+  --text-md-medium-font-style: normal;
+  --text-md-medium-font-weight: 500;
+  --text-md-medium-letter-spacing: 0px;
+  --text-md-medium-line-height: 24px;
+  --text-sm-medium-font-family: "Poppins-Medium", Helvetica;
+  --text-sm-medium-font-size: 14px;
+  --text-sm-medium-font-style: normal;
+  --text-sm-medium-font-weight: 500;
+  --text-sm-medium-letter-spacing: 0px;
+  --text-sm-medium-line-height: 20px;
+  --white-900: rgba(255, 255, 255, 1);
+}

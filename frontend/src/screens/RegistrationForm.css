@@ -1,0 +1,78 @@
+.Container {
+    margin: auto;
+    padding: 50px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .container0 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+  }
+  
+  .container00 {
+    flex: 1;
+    
+  }
+  
+  
+  .smallhead {
+    font-size: 10px;
+    color: #666;
+  }
+
+  
+  .input {
+    flex: 1;
+    margin-bottom: 15px;
+    margin-right: 10px;
+  }
+  
+  input,
+  textarea {
+    width: 50%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-top: 5px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    cursor: pointer;
+  }
+  
+  .bg-blue-500 {
+    background-color: #28ab6e;
+    width: 100%;
+
+  }
+  
+  .text-white {
+    color: #fff;
+  }
+  
+  .rounded {
+    border-radius: 5px;
+  }
+  .border {
+    border: 1px solid #ccc;
+    padding: 8px;
+    width: 100%;
+  }
+  .label {
+    font-size: 12px;
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .logo-image {
+    flex: 1;
+    width: 76.316px;
+    height: auto; /* Maintain aspect ratio */
+    margin-right: 10px; /* Adjust margin as needed */
+  }

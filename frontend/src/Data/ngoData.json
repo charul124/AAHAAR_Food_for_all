@@ -1,0 +1,553 @@
+{
+  "STATE": {
+    "HIMACHAL PRADESH": [
+      {
+        "CITY": {
+          "DHARAMSHALA": [
+            {
+              "id": 1,
+              "PINCODE": 176215,
+              "NGO": "LIONS CLUB DHARAMSHALA A SOCIAL SERVICE SOCIETY",
+              "ADDRESS": "Lions Bhawan, Civil Bazar, Sharmnagar Road, Dharmsala District Kangra of Himachal Pradesh"
+            },
+            {
+              "id": 2,
+              "PINCODE": 176057,
+              "NGO": "M/S CHINMAYA TAPOVAN TRUST",
+              "ADDRESS": "CHINMAYA TAPOVAN TRUST, V.P.O. SIDHBARI TEHSIL DHARMSHALA DISTT KANGRA (H.P)"
+            },
+            {
+              "id": 3,
+              "PINCODE": 176218,
+              "NGO": "UTHAN Urban Tribal and Hills Advancement Society",
+              "ADDRESS": "Urban, Tribal and Hills Advancement Society V.P.O. Khaniara Tehsil Dharamshala District Kangra H.P"
+            },
+            {
+              "id": 4,
+              "PINCODE": 176215,
+              "NGO": "Sambhota Tibetan School",
+              "ADDRESS": "Sambhota Tibetan Schools Society, Session Road- Dharamsala H.P"
+            },
+            {
+              "id": 5,
+              "PINCODE": 176215,
+              "NGO": "Tong Len Charitable Trust",
+              "ADDRESS": "Tong-Len Charitable Trust V.P.O. Mohal Jather Mojja Sarah, Tehsil Dharamshala Distt. Kangra (H.P) PIN 176215"
+            }
+          ]
+        }
+      },
+      {
+        "CITY": {
+          "KULLU": [
+            {
+              "id": 6,
+              "PINCODE": 175104,
+              "NGO": "SHASTRA SOCIETY MNGO",
+              "ADDRESS": "Village Gordor PO Larankelo District Kullu"
+            },
+            {
+              "id": 7,
+              "PINCODE": 175126,
+              "NGO": "Adarsh Educational and Social Welfare Society",
+              "ADDRESS": "Village Bhutti Colony P.O Shamshi Tehsil Bhunter Distt. Kullu (HP)"
+            },
+            {
+              "id": 8,
+              "PINCODE": 175101,
+              "NGO": "THE HIMSHAKTI HANDLOOM AND HANDICRAFT LTD",
+              "ADDRESS": "VILLAGE BALABEHAR P.O. DHALPUR TEHSIL & DISTRICT KULLU HIMACHAL PRADESH"
+            },
+            {
+              "id": 9,
+              "PINCODE": 175101,
+              "NGO": "Natraj Development and Welfare Organization",
+              "ADDRESS": "Near Block Office Dhalpur Kullu"
+            },
+            {
+              "id": 10,
+              "PINCODE": 175123,
+              "NGO": "Pragitishil Vishwakarma Kalyan Sabha",
+              "ADDRESS": "V.P.O. Banjar Teh. Banjar Distt. Kullu Himachal Pradesh"
+            }
+          ]
+        }
+      },
+      {
+        "CITY": {
+          "MANDI": [
+            {
+              "id": 11,
+              "PINCODE": 175002,
+              "NGO": "Centre for Sustainable Development",
+              "ADDRESS": "Below ICICI Bank, Sundernagar, Mandi, Himachal Pradesh, India"
+            },
+            {
+              "id": 12,
+              "PINCODE": 175001,
+              "NGO": "Mandi Saksharta Evum Jan Vikas Samiti",
+              "ADDRESS": "Mandi Saksharta Evum Jan Vikas Samiti Sauli Khadd Mandi Himachal Pradesh"
+            },
+            {
+              "id": 13,
+              "PINCODE": 175004,
+              "NGO": "Deenbandhu Seva Mandal Bharnal",
+              "ADDRESS": "Village Bharnal PO Dhalwan Tehsil Sarkaghat District Mandi, Himachal Pradedsh"
+            },
+            {
+              "id": 14,
+              "PINCODE": 175124,
+              "NGO": "GRAM SUDHAR SAMITI THONU",
+              "ADDRESS": "VILLAGE THONU POST SHIVA TEHSIL SADAR DISTRICT MANDI STATE HIMACHAL PRADESH"
+            },
+            {
+              "id": 15,
+              "PINCODE": 175002,
+              "NGO": "KITVIT PUBLIC TRUST",
+              "ADDRESS": "NEAR HRTC SHOPPING COMPLEX, NEW BUS STAND TEHSIL SUNDER NAGAR , DISTT. MANDI-(H.P.)"
+            }
+          ]
+        }
+      },
+      {
+        "CITY": {
+          "BILASPUR": [
+            {
+              "id": 16,
+              "PINCODE": 174024,
+              "NGO": "CHETNA HIMACHAL PRADESH",
+              "ADDRESS": "Village Vijaypur P.O Auhar Tehsil Jhandutta District Bilaspur H.P"
+            },
+            {
+              "id": 17,
+              "PINCODE": 174029,
+              "NGO": "MANAV SEVA SANSTHAN BERTHIN",
+              "ADDRESS": "Manav Seva Sansthan Berthin Distt. BilaspurHimachal Pradesh"
+            },
+            {
+              "id": 18,
+              "PINCODE": 174021,
+              "NGO": "ARPAN FOUNDATION",
+              "ADDRESS": "V.P.O Amarpur Tehsil Ghumarwin Distt Bilaspur H.P"
+            },
+            {
+              "id": 19,
+              "PINCODE": 174011,
+              "NGO": "GARAM SUDHAR SIMITI BALH-KARETA",
+              "ADDRESS": "V.P.O. Jamli, Tehsil Sadar, Distt. Bilaspur HP"
+            },
+            {
+              "id": 20,
+              "NGO": "RIIMT WELFARE & EDUCATIONAL SOCIETY GHUMARWIN",
+              "ADDRESS": "V.P.O. GHUMARWIN TEH. GHUMARWIN DISTT. BILASPUR (HP)"
+            }
+          ]
+        }
+      },
+      {
+        "CITY": {
+          "SHIMLA": [
+            {
+              "id": 21,
+              "PINCODE": 171002,
+              "NGO": "SAMAJ KALYAN AVEM VIKAS MANDAL",
+              "ADDRESS": "Village Shawala, P.O. Nerwa Tehsil Chopal District Shimla (H.P.)"
+            },
+            {
+              "id": 22,
+              "PINCODE": 172001,
+              "NGO": "Jakh Yuva Mandal",
+              "ADDRESS": "Vill. Racholi P.O. Khaneri Teh. Rampur Bushahr Distt. Shimla H.P"
+            },
+            {
+              "id": 23,
+              "PINCODE": 171002,
+              "NGO": "Nav Chetna",
+              "ADDRESS": "Attri Niwas, Near R.K, Traders, Khalini Shimla(H.P)"
+            },
+            {
+              "id": 24,
+              "PINCODE": 171001,
+              "NGO": "Association for Social Health in India",
+              "ADDRESS": "Block No.3, Set No.35, US Club Shimla(H.P)"
+            },
+            {
+              "id": 25,
+              "PINCODE": 171201,
+              "NGO": "Himachal Harijan Kalyan Sanstha",
+              "ADDRESS": "Himachal Harijan Kalyan Sanstha, Office Theog, District Shimla(H.P)"
+            }
+          ]
+        }
+      }
+     
+    ],
+    "HARYANA": [
+      {
+        "CITY": {
+          "GURGAON": [
+            {
+              "id": 26,
+              "PINCODE": 122413,
+              "NGO": "Nav Disha Education and Welfare Society",
+              "ADDRESS": "V.P.O-Sidhrawali Distt.-Gurgaon(HR.)"
+            },
+            {
+              "id": 27,
+              "PINCODE": 122003,
+              "NGO": "S M Sehgal Foundation",
+              "ADDRESS": "Plot No 34, Sector 44 Institutional Area Gurgaon, Haryana"
+            },
+            {
+              "id": 28,
+              "PINCODE": 122002,
+              "NGO": "SOCIETY FOR EDUCATION AND ENVIRONMENTAL TRAINING",
+              "ADDRESS": "F 19A SUSHANT LOK 2 SECTOR 56 GURGAON"
+            },
+            {
+              "id": 29,
+              "PINCODE": 122001,
+              "NGO": "MANAV UTTHAN MISSION",
+              "ADDRESS": "416, Aapka Bazar, Gurgaon"
+            },
+            {
+              "id": 30,
+              "PINCODE": 122001,
+              "NGO": "The Earth Saviours Foundation",
+              "ADDRESS": "Bandhwari Village, GurgaonFaridabad Road, Near TERI Golf Course, District Gurgaon, Haryana"
+            }
+          ]
+        }
+      },
+      {
+        "CITY": {
+          "FARIDABAD": [
+            {
+              "id": 31,
+              "PINCODE": 121003,
+              "NGO": "Pahal Foundation",
+              "ADDRESS": "House No.108, First Floor, Goyal Market, Sarai Khawaja, Faridabad"
+            },
+            {
+              "id": 32,
+              "PINCODE": 121004,
+              "NGO": "PEOPLE FOR ANIMALS FARIDABAD",
+              "ADDRESS": "House number 1262 sector 55"
+            },
+            {
+              "id": 33,
+              "PINCODE": 121001,
+              "NGO": "Prakash Deep Trust",
+              "ADDRESS": "586, Sector 21-A, Faridabad, 121001 Haryana India"
+            },
+            {
+              "id": 34,
+              "PINCODE": 121001,
+              "NGO": "Ati pichhra Mahila Aivam Bujurg Vikash Manch",
+              "ADDRESS": "H.N. 930 30 feet Road Parvatiya Colony NITFaridabad"
+            },
+            {
+              "id": 35,
+              "PINCODE": 121007,
+              "NGO": "SEVADHARAM PATIENT CARE SOCIETY",
+              "ADDRESS": "PLOT NO. 174 , SECTOR-15-A, FARIDABAD HARYANA"
+            }
+          ]
+        }
+      },
+
+      {
+        "CITY": {
+          "PANIPAT": [
+            {
+              "id": 36,
+              "PINCODE": 132103,
+              "NGO": "The Ashoka Handlooms and Handicraft Society",
+              "ADDRESS": "BUILDING NO 1456, NEW HOUSING BOARD COLONY, PANIPAT-132103"
+            },
+            {
+              "id": 37,
+              "PINCODE": 132101,
+              "NGO": "ARCHNA SEVA SANGH",
+              "ADDRESS": "VPODIKADLA, TEHSILSAMALKHA, DISTT PANIPAT, STATEHARYANA"
+            },
+            {
+              "id": 38,
+              "PINCODE": 132103,
+              "NGO": "SECONDARY EDUCATION OF BHIWANI HARYANA",
+              "ADDRESS": "VPO - MANDI, TEH -ISRANA, DISTT- PANIPAT, STATE= HARYANA"
+            },
+            {
+              "id": 39,
+              "PINCODE": 132103,
+              "NGO": "HARI MAHILA VIKAS SAMITI",
+              "ADDRESS": "H.NO.-246, Sector-6, Huda Panipat, 132103 HARYANA"
+            },
+            {
+              "id": 40,
+              "PINCODE": 132103,
+              "NGO": "WOMEN SOCIAL WELFARE SOCIETY",
+              "ADDRESS": "HOUSE NO. 265/23, KABIR MANDIR WALI GALI, KISHANPURA , PANIPAT"
+            }
+          ]
+        }
+      },
+      {
+        "CITY": {
+          "KARNAL": [
+            {
+              "id": 41,
+              "PINCODE": 132001,
+              "NGO": "Excellent Civil Academy",
+              "ADDRESS": "Excellent Civil Academy S.C.O.-29 third floor Sec.-13 Urban Estate Karnal"
+            },
+            {
+              "id": 42,
+              "PINCODE": 110092,
+              "NGO": "ALL INDIA ASSOCIATION FOR WOMEN AND CHILD DEVELOPMENT",
+              "ADDRESS": "162 ANKUR APARTMENT, 71 IP EXT, DELHI, 110092"
+            },
+            {
+              "id": 43,
+              "PINCODE": 132001,
+              "NGO": "Sat Foundation",
+              "ADDRESS": "SCO 3rd Floor Mughal Canal Karnal"
+            },
+            {
+              "id": 44,
+              "PINCODE": 132001,
+              "NGO": "Indian Society of Soil Salinity and Water Quality",
+              "ADDRESS": "Indian Society of Soil Salinity and Water Quality Central Soil Salinity Research Institute, Zarifa Farm, Kachhwa Road, Karnal"
+            },
+            {
+              "id": 45,
+              "PINCODE": 132039,
+              "NGO": "INDIAN CULTURAL AVM DRAMA SOCIETY",
+              "ADDRESS": "VPO Jalmana, Tehsil : Asandh, Distt. Karnal, Haryana"
+            }
+          ]
+        }
+      },
+      {
+        "CITY": {
+          "ROHTAK": [
+            {
+              "id": 46,
+              "PINCODE": 124113,
+              "NGO": "biits education society",
+              "ADDRESS": "Biits Education Society Ward No. 8, Opp gali police stationKalanaur Distt, Rohtak ( Haryana )"
+            },
+            {
+              "id": 47,
+              "PINCODE": 124001,
+              "NGO": "The Rural Organization for Awareness and Development ROAD",
+              "ADDRESS": "ROAD Office :H.No.2469, Ward-31, C/o Manav Bharti High School, Ekta Colony, Rohtak"
+            },
+            {
+              "id": 48,
+              "PINCODE": 124112,
+              "NGO": "Jan Shikshan Sansthan",
+              "ADDRESS": "Ishwar Sadan, Near Chaubisee Ka Chabutra, Meham District Rohtak"
+            },
+            {
+              "id": 49,
+              "PINCODE": 124112,
+              "NGO": "Chaubisee Vikas Sangh",
+              "ADDRESS": "Near Chaubisee Ka Chabutra NH-10 Meham-124112 District Rohtak"
+            },
+            {
+              "id": 50,
+              "PINCODE": 124001,
+              "NGO": "Society for Haryana Vigyan Manch",
+              "ADDRESS": "C/o Jan Vigyan Kendra, Chamaria Road, Near Sanskriti School, Rohtak"
+            }
+          ]
+        }
+      }
+    ],
+    "JHARKHAND": [
+      {
+        "CITY": {
+          "BOKARO": [
+            {
+              "id": 51,
+              "PINCODE": 827013,
+              "NGO": "JAN SHIKSHAN SANSTHAN BOKARO",
+              "ADDRESS": "JSS BHAWAN, Behind Hotel Vaibhav, Bye-paas Road, CHAS BOKARO"
+            },
+            {
+              "id": 52,
+              "PINCODE": 827006,
+              "NGO": "Mahila Janshakti Sangathan",
+              "ADDRESS": "Mahila Janshakti Sanatha Qtr. No.1293, Sector5/C Bokaro Steel City, Bokaro Jharkhand"
+            },
+            {
+              "id": 53,
+              "PINCODE": 827013,
+              "NGO": "MAHILA SHISHU JAN VIKAS SAMITI",
+              "ADDRESS": "SUKHDEV NAGAR, CHAS WARD NO-17, CHAS BOKARO, JHARKHAND"
+            },
+            {
+              "id": 54,
+              "PINCODE": 829301,
+              "NGO": "Sahyogini",
+              "ADDRESS": "Bahadurpur (Jaina) Bokaro Jharkhand"
+            },
+            {
+              "id": 55,
+              "PINCODE": 829301,
+              "NGO": "Shree Amar Sanskar Kalyan Kendra",
+              "ADDRESS": "Prasad Bhawan Bhuchungdih Road Jainamore"
+            }
+          ]
+        }
+      },
+      {
+        "CITY": {
+          "DHANBAD": [
+            {
+              "id": 56,
+              "PINCODE": 826004,
+              "NGO": "MANTHAN",
+              "ADDRESS": "MANTHAN, VILL-BARAJAMUA, PO-KALYANPUR, DIST-DHANBAD[JHARKHAND]"
+            },
+            {
+              "id": 57,
+              "PINCODE": 828113,
+              "NGO": "PITAMBARA JAN KALYAN TRUST",
+              "ADDRESS": "VIllage:-Dharkiro,Kankomath Katrasgarh,Dhanbad Jharkhand"
+            },
+            {
+              "id": 58,
+              "PINCODE": 828125,
+              "NGO": "AAKANKSHA UTPRERAK SAMAJIK SANSTHA",
+              "ADDRESS": "AAKANKSHA UTPRERAK SAMAJIK SANSTHA NAWAGARH MORE, PO-KHARKHAREE, DISTT-DHANBAD, STATE-JHARKHAND"
+            },
+            {
+              "id": 59,
+              "PINCODE": 828106,
+              "NGO": "JEEVAN",
+              "ADDRESS": "\"JEEVAN\", BASTACOLLA GAUSHALLA MORE, DHANSAR, DHANBAD"
+            },
+            {
+              "id": 60,
+              "PINCODE": 826005,
+              "NGO": "P R PANDEY 55 MURLI NAGAR PO KOYLA NAGAR DHANBAD",
+              "ADDRESS": "SAI PARIWAR"
+            }
+          ]
+        }
+      },
+
+      {
+        "CITY": {
+          "RANCHI": [
+            {
+              "id": 61,
+              "PINCODE": 834003,
+              "NGO": "Centre for Development",
+              "ADDRESS": "Gayatri Sadan, Tupudana, P.O.Hatia, Ranchi"
+            },
+            {
+              "id": 62,
+              "PINCODE": 834002,
+              "NGO": "Citizens Foundation",
+              "ADDRESS": "Betar Kendra, Niwaranpur Ranchi"
+            },
+            {
+              "id": 63,
+              "PINCODE": 834002,
+              "NGO": "ACET SWAROJGAR SANGH",
+              "ADDRESS": "ACET SWAROJGAR SANGH Jerath compound, Main Road Hinoo, Ranchi"
+            },
+            {
+              "id": 64,
+              "PINCODE": 828116,
+              "NGO": "Shree Laljee Prashikshan Kendra",
+              "ADDRESS": "Putkee Bazar P.O-Kusunda,Dist-Dhanbad Jharkhand"
+            },
+            {
+              "id": 65,
+              "PINCODE": 835227,
+              "NGO": "BIR BURU VIKAS KENDRA",
+              "ADDRESS": "BIR BURU VIKAS KENDRA At- Block chowk Rania, p.o+p.s- Rania Dist- Khunti State- Jharkhand"
+            }
+          ]
+        }
+      },
+      {
+        "CITY": {
+          "JAMSHEDPUR": [
+            {
+              "id": 66,
+              "PINCODE": 831006,
+              "NGO": "Abdul Wahid Shah Educational Trust",
+              "ADDRESS": "Madrasa Ghausia, Mazhar Sharif road,Gaddi Mohalla,P.O- Jugsalai,P.S-Jugsalai East Singhbhum, Jamshedpur,Jharkhand"
+            },
+            {
+              "id": 67,
+              "PINCODE": 831011,
+              "NGO": "Adarsh Seva Sansthan Jharkhand",
+              "ADDRESS": "Opposite 4th Phase,Adarsh Nagar,Sonari.Jamshedpur"
+            },
+            {
+              "id": 68,
+              "PINCODE": 831008,
+              "NGO": "Adibasi Welfare Society",
+              "ADDRESS": "Main Road, Ghorabandha, PO Luabasa, PS Govindpur, Via Indra Nagar, Jamshedpur"
+            },
+            {
+              "id": 69,
+              "PINCODE": 831003,
+              "NGO": "All Jharkhand Womens Association",
+              "ADDRESS": "HOUSE NO - 15, HINDU BASTI, GOLMURI, P.O.- GOLMURI, EAST SINGHBHUM, PIN CODE"
+            },
+            {
+              "id": 70,
+              "PINCODE": 832110,
+              "NGO": "Azad Hind Welfare Society",
+              "ADDRESS": "Azad Hind Welfare Society, Old Purulia Road, Road No. -18(W), Zakir Nagar Mango, Jamshedpur"
+            }
+          ]
+        }
+      },
+      {
+        "CITY": {
+          "HAZARIBAGH": [
+            {
+              "id": 71,
+              "PINCODE": 825301,
+              "NGO": "Srijan Foundation",
+              "ADDRESS": "SRIJAN FOUNDATION 106, Bijoy Enclave, Heerabag Chowk, Matwari,Hazaribag"
+            },
+            {
+              "id": 72,
+              "PINCODE": 825402,
+              "NGO": "Serve the Society for Empowerment and Women Advancement",
+              "ADDRESS": "Serve the Society for Empowerment and Women Advancement ( ServeSEWA) Chhota Akhara Road, Ichak, P.O. Ichak, District Hazaribagh Jharkhand"
+            },
+            {
+              "id": 73,
+              "PINCODE": 825301,
+              "NGO": "ASHRAY",
+              "ADDRESS": "bara bazar, gwal toli, rabindra path, hazaribag"
+            },
+            {
+              "id": 74,
+              "PINCODE": 825405,
+              "NGO": "Jan Jagran Kendra",
+              "ADDRESS": "Barhi, Hazaribagh"
+            },
+            {
+              "id": 75,
+              "PINCODE": 825301,
+              "NGO": "Jan Sewa Parishad",
+              "ADDRESS": "Jan Sewa Parishad Hazaribag, Head Post Office Road Julu Park, Hazaribag, Jharkhand"
+            }
+          ]
+        }
+      }
+    ]
+    
+  }
+}

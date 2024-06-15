@@ -4,6 +4,9 @@ The Aahaar project is a revolutionary initiative designed to combat food waste a
 ### Problem Statement:
 In our modern society, approximately one-third of the food produced globally goes to waste while millions suffer from food insecurity. The Aahaar project addresses this critical issue by bridging the gap between surplus food and those in need, striving to create a more equitable and sustainable food distribution system.
 
+### Images and Videos
+![Image Description](/frontend/public/images/Aahaargitimg1.jpg)
+
 ### Key Features:
 1. **Technology-Driven Platform:** Aahaar comprises a user-friendly website and mobile application for seamless food redistribution.
 2. **Food Redistribution:** It links surplus food sources like restaurants and grocery stores to shelters and individuals facing food insecurity.
